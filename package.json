@@ -1,7 +1,7 @@
 {
   "name": "BotWa",
   "version": "1.0.0",
-  "description": "Lexxy Botz",
+  "description": "WARD Botz",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -54,7 +54,7 @@
   "keywords": [
     "Recode:v"
   ],
-  "author": "Lexxy Official",
+  "author": "WARD Official",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Lexxy24"
